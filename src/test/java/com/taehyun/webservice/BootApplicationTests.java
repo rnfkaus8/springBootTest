@@ -1,4 +1,4 @@
-package com.taehyun.boot;
+package com.taehyun.webservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
