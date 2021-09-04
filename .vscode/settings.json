@@ -1,5 +1,5 @@
 {
     "workbench.editor.untitled.experimentalLanguageDetection": true,
-    "java.home": "C:\\ojdk11\\",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.home": "C:\\ojdk11\\jdk-11",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }
