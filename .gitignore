@@ -2,7 +2,13 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 /out
-.vscode
+### VSCODE ###
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
 
 ### STS ###
 .apt_generated
@@ -17,6 +23,7 @@
 *.iws
 *.iml
 *.ipr
+*.class
 
 ### NetBeans ###
 nbproject/private/
