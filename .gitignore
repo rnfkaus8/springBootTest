@@ -2,6 +2,7 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 /out
+.vscode
 
 ### STS ###
 .apt_generated
